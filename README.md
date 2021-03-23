@@ -1,8 +1,8 @@
 # script_pegadinha
 Script de pegadinha para amigos
 
-Atenção; Esse script contém o system.os("cls") que funciona apenas no cmd do Windows!
-Mude para system.os("clear"), irá funcionar no bash do Linux, no entanto, o messagebox do tkinter não irá aparecer.
+Atenção; Alguns comandos dentro do código podem estar trocados... exemplo, linux no arquivo do windows e windows no arquivo do Linux, qualquer coisa mudem no source (caso dê erro)
+Lembrando, o messagebox não irá aparecer no terminal do Linux, apenas no cmd do Windows.
 
 O script conta com o uso da biblioteca tqdm em Python.
 
